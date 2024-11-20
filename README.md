@@ -31,6 +31,7 @@ Motivated **Software Engineer** specializing in **backend development** and **De
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Fiber" />
+  <img src="https://img.shields.io/badge/Chi-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Chi" />
 </p>
 
 ### **DevOps Tools**  
@@ -54,41 +55,6 @@ Motivated **Software Engineer** specializing in **backend development** and **De
   </a>
 </p>
 
----
-
-## 🏆 Achievements & Experience
-
-### **Work Experience**
-- **DevOps Trainee** (DEPI - April 2024 to October 2024)  
-  - Reduced deployment time by 40% using Docker and Kubernetes.
-  - Automated configuration management with Ansible, improving reliability.
-  - Deployed CI/CD pipelines with GitLab, reducing release cycles from weeks to days.  
-
-- **.NET Trainee** (ITI - June 2023 to August 2023)  
-  - Built scalable APIs and optimized database queries, improving performance by 30%.
-  - Gained expertise in Entity Framework, LINQ, and asynchronous programming.
-
-### **Achievements**
-- **ECPC 2023**: Ranked **17th** in the national programming contest.  
-- Solved over 100 algorithmic problems, boosting data structure expertise.
-
----
-
-## 📚 Projects
-
-### [OGRA - Online General Reservation Application](https://github.com/your-link)  
-- A mobile app facilitating public transportation payments across Egypt using **NFC** and **QR technologies**.  
-- Backend: **C#** and **.NET**, Database: **SQL**, Frontend: **React Native**.
-
-### [Fawry Payment Service Backend](https://github.com/your-link)  
-- Developed a scalable backend replica of Fawry’s transactional system with **Spring Boot**.  
-- Processed 500+ concurrent transactions with high reliability.
-
-### [Clinic Reservation System](https://github.com/your-link)  
-- Built a web app with **Go**, **React**, and **PostgreSQL**, deployed on **RedHat OpenShift**.  
-- Automated pipelines, improving resource efficiency by 20%.
-
----
 
 ## 📜 Certifications
 

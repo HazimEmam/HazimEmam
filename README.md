@@ -5,7 +5,7 @@
 Motivated **Software Engineer** specializing in **backend development** and **DevOps practices**. Passionate about building scalable, secure, and maintainable systems, combining expertise in backend technologies with modern CI/CD pipelines.
 
 - 🌍 **Based in:** Cairo, Egypt  
-- 🧠 **Currently Learning:** Advanced .Net SQL & PostgreSQL  
+- 🧠 **Currently Learning:** Advanced .Net, SQL & PostgreSQL  
 - ✉️ **Contact me:** [hazimemam6015@gmail.com](mailto:hazimemam6015@gmail.com)  
 - ⚡ **Interests:** Java, C++, Backend Systems, Competitive Programming  
 
